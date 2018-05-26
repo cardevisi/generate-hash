@@ -1,7 +1,7 @@
 function toHex(input) {
 
   var hash = "",
-    alphabet = "0123456789abcdef",
+    alphabet = "!@%-0123456789abcdef",
     alphabetLength = alphabet.length;
 
   do {
